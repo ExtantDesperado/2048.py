@@ -1,6 +1,5 @@
 #!/usr/bin/python2
 
-from __future__ import print_function
 from random import randint
 import sys
 
